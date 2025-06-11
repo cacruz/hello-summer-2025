@@ -1,1 +1,2 @@
 - Hello, world! - English
+- Witaj, świecie! - Polish
