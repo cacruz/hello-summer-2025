@@ -1,5 +1,6 @@
+- Salaam danyaa - Persian
 - नमस्ते, विश्व - Nepali
--Tere, maailm! - Estonian
+- Tere, maailm! - Estonian
 - שלום עולם! - Hebrew
 - Ciao mondo! - Italian
 - "Yeia!" - Greek
