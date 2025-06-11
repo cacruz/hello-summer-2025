@@ -1,3 +1,4 @@
+- Ciao mondo! - Italian
 - "Yeia!" - Greek
 - Hello, world! - English
 - Hola, Mundo! - Spanish
