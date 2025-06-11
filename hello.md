@@ -1,1 +1,14 @@
 - नमस्ते, विश्व - Nepali
+-Tere, maailm! - Estonian
+- שלום עולם! - Hebrew
+- Ciao mondo! - Italian
+- "Yeia!" - Greek
+- Hello, world! - English
+- Hola, Mundo! - Spanish
+- Buena sera! - Italian
+- Hello, world! - English
+- Bonjour, monde! - French
+- Witaj, świecie! - Polish
+- Hola, Mundo! - Spanish
+- Hola el Mundo! - Spanish
+- Guten Morgen -German
