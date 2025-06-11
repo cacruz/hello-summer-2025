@@ -1,2 +1,2 @@
-print("Hello class! My name is Kai and I'm excited to learn python with you all!")
+print("Привет, класс! Меня зовут Кай, и я с нетерпением жду возможности изучать Python вместе с вами!")
 
