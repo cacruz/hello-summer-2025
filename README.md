@@ -12,7 +12,7 @@ This project is part of the NASA Summer 2025 GitHub tutorial to help you learn h
 
 ## Your Mission
 
-Add a **"Hello, World!"** greeting in a language of your choice to our growing collection!
+Add a **"Hello, World!"** greeting in a language of your choice.
 
 Whether it's Spanish, Swahili, Klingon, or Emoji—let's see how diverse we can make this!
 
