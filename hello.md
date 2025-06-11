@@ -1,2 +1,4 @@
+- Hello, world! - English
+- Hola, Mundo! - Spanish
 - Hola el Mundo! - Spanish
 - Guten Morgen -German
