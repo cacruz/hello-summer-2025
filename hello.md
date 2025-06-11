@@ -1,1 +1,1 @@
-- Hello, world! - English
+- "Yeia!" - Greek
