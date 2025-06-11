@@ -1,4 +1,5 @@
 - Hello, world! - English
+- Bonjour, monde! - French
 - Witaj, świecie! - Polish
 - Hola, Mundo! - Spanish
 - Hola el Mundo! - Spanish
