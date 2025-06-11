@@ -1,1 +1,1 @@
-- Hello, world! - English
+こんにちは世界！
