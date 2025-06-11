@@ -1,1 +1,1 @@
-- Hello, world! - English
+- שלום עולם! - Hebrew
