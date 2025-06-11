@@ -1,1 +1,1 @@
-- Guten Morgen -German
+Salaam danyaa - Persian
