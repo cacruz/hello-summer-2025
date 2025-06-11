@@ -1,1 +1,2 @@
 - Hello, world! - English
+- Hola, Mundo! - Spanish
