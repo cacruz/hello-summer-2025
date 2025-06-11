@@ -1,3 +1,4 @@
+-Tere, maailm! - Estonian
 - שלום עולם! - Hebrew
 - Ciao mondo! - Italian
 - "Yeia!" - Greek
