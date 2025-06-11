@@ -1,3 +1,4 @@
+- שלום עולם! - Hebrew
 - Ciao mondo! - Italian
 - "Yeia!" - Greek
 - Hello, world! - English
