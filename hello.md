@@ -1,1 +1,1 @@
-- Hello, world! - English
+- नमस्ते, विश्व - Nepali
