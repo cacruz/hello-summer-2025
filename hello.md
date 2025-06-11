@@ -1,3 +1,4 @@
+- नमस्ते, विश्व - Nepali
 -Tere, maailm! - Estonian
 - שלום עולם! - Hebrew
 - Ciao mondo! - Italian
