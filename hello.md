@@ -1,1 +1,1 @@
-- Hello, world! - English
+-Tere, maailm! - Estonian
